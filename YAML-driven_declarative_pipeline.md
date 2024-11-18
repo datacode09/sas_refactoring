@@ -217,6 +217,3 @@ steps:
 5. **Extensibility**:
    - New steps can be added by defining new macros and updating the YAML configuration.
 
----
-
-Would you like me to elaborate further on YAML parsing in SAS or add more details for a specific pipeline step?
